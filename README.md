@@ -15,3 +15,7 @@ You will learn to program with the Python language and Linux shell scripts,  cre
 Guided by experts at IBM, you will be prepared for success.​ Labs and projects in this certificate program are designed to equip job-ready hands-on skills that will help you launch a new career in a highly in-demand field. 
 
 This professional certificate is suitable for both - those who have none or some programming experience, as well as those with and without college degrees.
+
+# ci-cd-final-project
+
+This is the final project for the CI/CD course.
