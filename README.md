@@ -1,6 +1,6 @@
 # DevOps Capstone Project - Customer Accounts Microservice
 
-[![CI Pipeline](https://github.com/mohamedhassan1222/IBMDEVOPS/actions/workflows/workflow.yml/badge.svg)](https://github.com/mohamedhassan1222/IBMDEVOPS/actions/workflows/workflow.yml)
+![CI Pipeline](https://github.com/mohamedhassan1222/IBMDEVOPS/actions/workflows/ci-build.yaml/badge.svg?branch=main)
 
 This is the DevOps Capstone Project for the Customer Accounts microservice.
 
